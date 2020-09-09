@@ -103,7 +103,7 @@ number_of_files = len(filelist)
 
 
 # In[ ]:
-# IMPORTANT NOTE - all fields must not have the character "/" or "\" as it will disrupt the code written below
+# IMPORTANT NOTE - all fields must not have the characters "/", "\", or "*" [NOTE - I'm sure there are more, just haven't found them yet] as it will disrupt the code written below
 # This is a complex piece of code that I 'frankensteined' together from research online.
 #
 # Essentially, it does the following:
