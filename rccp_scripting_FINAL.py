@@ -78,7 +78,9 @@ number_of_cell = len(merge_df['Color'])
 #
 # for example - if 'Cool Breeze' has two flat rccps, you can expect there to be two rows with
 # the color value 'Cool Breeze' - as seen in [cell 4] - but that will be problem when it comes
-# time to rename the files
+# time to rename the files - if the file name corresponding to 'Cool Breeze' has already been made
+# the code will break when it trys to rename the second instance of 'Cool Breeze' as the first
+# already exists.
 #
 # This block walks through the color series and checks if any adjacent values are duplicates, if so
 # please append 'Part1' to the original and 'Part2' to the duplicate
