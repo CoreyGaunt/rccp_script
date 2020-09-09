@@ -38,7 +38,10 @@ lens2 = df1['Texture RCCP'].str.split(', ').map(len)
 # for example, if a product had the flat rccp value '234,235' - the below dataframe
 # would now have two rows for that product, one for each number in the flat rccp value
 #
-# The same is done for the texture rccp values - 
+# The same is done for the texture rccp values
+#
+# With the two dataframes created, I merge them together to generate our final cleaned dataframe
+# which we will generate all of our new image names from
 flat = pd.DataFrame({
     'Manufacturer':np.repeat(df1['Manufacturer'], lens),
     'Series':np.repeat(df1['Series'], lens),
