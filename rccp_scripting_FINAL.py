@@ -93,7 +93,7 @@ for i in range(number_of_cell - 1):
 # In[ ]:
 # this line simply exports the new dataframe to a csv file
 # I used this in order to inspect my data when given confusing or blank errors
-merge_df.to_csv('data')
+merge_df.to_csv(input('What would you like to name your data file? '))
 
 
 # In[ ]:
