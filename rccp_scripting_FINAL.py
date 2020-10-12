@@ -7,6 +7,7 @@ import numpy as np
 import os
 import csv
 from itertools import chain
+import shutil
 
 
 # In[ ]:
@@ -62,13 +63,14 @@ merge_df = pd.merge(flat,text)
 # for use with the images. Here we are ensuring that Flat and Texture RCCP row values will
 # match up with the image names in our folders
 merge_df['Flat RCCP'] = merge_df['Flat RCCP'] + "_FLT.dng"
-merge_df['Texture RCCP'] = merge_df['Texture RCCP'].str.strip().replace('Use ','')
+merge_df['Texture RCCP'] = merge_df['Texture RCCP'].str.strip().str.replace('Use ','')
 merge_df['Texture RCCP'] = merge_df['Texture RCCP'] + "_TXT.dng"
 
 
 # In[ ]:
 # I created this range so that I could iterate through the items below
 number_of_cell = len(merge_df['Color'])
+merge_df['product_key'] = merge_df['Series'].str.strip() + merge_df['Color'].str.strip()
 
 
 # In[ ]:
@@ -84,10 +86,23 @@ number_of_cell = len(merge_df['Color'])
 #
 # This block walks through the color series and checks if any adjacent values are duplicates, if so
 # please append 'Part1' to the original and 'Part2' to the duplicate
+
 for i in range(number_of_cell - 1):
-    if merge_df['Color'][i] == merge_df['Color'][i+1]:
-        merge_df['Color'][i] = merge_df['Color'][i].strip() + "Part1"
-        merge_df['Color'][i+1] = merge_df['Color'][i+1].strip() + "Part2"
+    try:
+        if merge_df['product_key'][i] == merge_df['product_key'][i+1]:
+            merge_df['Color'][i] = merge_df['Color'][i].strip() + "_Part1"
+            merge_df['Color'][i+1] = merge_df['Color'][i+1].strip() + "_Part2"
+        elif merge_df['product_key'][i] == merge_df['product_key'][i+2]:
+            merge_df['Color'][i] = merge_df['Color'][i].strip() + "_Part1"
+            merge_df['Color'][i+1] = merge_df['Color'][i+1].strip() + "_Part2"
+            merge_df['Color'][i+2] = merge_df['Color'][i+2].strip() + "_Part3"
+        elif merge_df['product_key'][i] == merge_df['product_key'][i+3]:
+            merge_df['Color'][i] = merge_df['Color'][i].strip() + "_Part1"
+            merge_df['Color'][i+1] = merge_df['Color'][i+1].strip() + "_Part2"
+            merge_df['Color'][i+2] = merge_df['Color'][i+2].strip() + "_Part3"
+            merge_df['Color'][i+3] = merge_df['Color'][i+3].strip() + "_Part4"
+    except:
+         print('This number is out of range')
 
 
 # In[ ]:
@@ -105,6 +120,9 @@ filelist = os.listdir(mydir)
 for file in filelist[:]: # filelist[:] makes a copy of filelist
     print(file)
 number_of_files = len(filelist)
+
+copiedDir = input("Please enter a directory path to store your source images: ")
+os.mkdir(copiedDir)
 
 
 # In[ ]:
@@ -125,16 +143,18 @@ number_of_files = len(filelist)
 # if they don't, I have it print out a statement saying that no match was found
 for i in range(number_of_cell):
         for n in range(number_of_files):
-            new_flat_file = mydir + (merge_df['Manufacturer'][i].strip() + merge_df['Series'][i].strip() + merge_df['Color'][i].strip() + "_FLAT" + ".dng")
-            new_text_file = mydir + (merge_df['Manufacturer'][i].strip() + merge_df['Series'][i].strip() + merge_df['Color'][i].strip() + "_TEXTURE" + ".dng")
+            new_flat_file = mydir + (merge_df['Manufacturer'][i].strip() + "_" + merge_df['Series'][i].strip() + "_" + merge_df['Color'][i].strip() + "_FLAT" + ".dng")
+            new_text_file = mydir + (merge_df['Manufacturer'][i].strip() + "_" + merge_df['Series'][i].strip() + "_" + merge_df['Color'][i].strip() + "_TEXTURE" + ".dng")
             if  filelist[n] == merge_df['Flat RCCP'][i]:
                 try:
+                    shutil.copy(mydir + filelist[n], copiedDir)
                     os.rename(mydir + filelist[n], new_flat_file)
                     print(f"flat image {new_flat_file} processed") 
                 except:
                     print('Flat Image Id NOT FOUND - or - Option has TWO pieces')
             elif  filelist[n] == merge_df['Texture RCCP'][i]:
                 try:
+                    shutil.copy(mydir + filelist[n], copiedDir)
                     os.rename(mydir + filelist[n], new_text_file)
                     print(f"texture image {new_text_file} processed")
                 except:
