@@ -21,12 +21,16 @@ df1 = df.dropna()
 
 def chainer(s):
     return list(chain.from_iterable(s.str.split(', ')))
-# calculate lengths of splits
-lens = df1['Flat RCCP'].str.split(', ').map(len)
-lens2 = df1['Texture RCCP'].str.split(', ').map(len)
+
+# This chunk of code will convert any comma separation that doesn't have a space proceeding it, to one that does - this
+# ensures that the text will split properly for the length and chainer functions
 
 df1['Flat RCCP'] = df1['Flat RCCP'].str.replace(",",", ")
 df1['Texture RCCP'] = df1['Texture RCCP'].str.replace(",",", ")
+
+# calculate lengths of splits
+lens = df1['Flat RCCP'].str.split(', ').map(len)
+lens2 = df1['Texture RCCP'].str.split(', ').map(len)
 
 # creating two new dataframes that contain rows of each split that was made above
 # for example, if a product had the flat rccp value '234,235' - the below dataframe
@@ -65,11 +69,21 @@ merge_df['Texture RCCP'] = merge_df['Texture RCCP'] + "_TXT.dng"
 
 # I created this range so that I could iterate through the items below
 number_of_cell = len(merge_df['Color'])
+
+# Here I created a unique id for each product that combines the series with the color, this will be used in the chunk of code
+# below to ensure the proper endings are appended to a product when it has up to four images in a single cell value either in
+# the flat rccp or texture rccp column
+
 merge_df['product_key'] = merge_df['Series'].str.strip() + merge_df['Color'].str.strip()
+
+# I added a new series to the dataframe called text name that allows for me to address a specific situation where
+# one photograph is used to represent the texture for an entire series - below you will see that if it is not used for 
+# more than one product, we will append the color name to the text_name field
+
 merge_df['Text_Name'] = merge_df['Manufacturer'].str.strip() + "_" + merge_df['Series'].str.strip()
 
 # this block of code is specifically used to handle products who have more than one
-# photo for their respective RCCP. Essentially, if one product has two ids - we want to
+# photo for their respective RCCP. Essentially, if one product has up to four ids - we want to
 # add a unique signifier for the duplicate so that we do not get errors in a file name
 #
 # for example - if 'Cool Breeze' has two flat rccps, you can expect there to be two rows with
@@ -79,7 +93,7 @@ merge_df['Text_Name'] = merge_df['Manufacturer'].str.strip() + "_" + merge_df['S
 # already exists.
 #
 # This block walks through the color series and checks if any adjacent values are duplicates, if so
-# please append 'Part1' to the original and 'Part2' to the duplicate
+# it will append either _Part1, _Part2, _Part3, or _Part4 depending on the requirement. 
 
 for i in range(number_of_cell - 1):
     try:
@@ -98,11 +112,22 @@ for i in range(number_of_cell - 1):
     except:
          print('This number is out of range')
 
+# Once the color names have had their required 'parts' (or not) added to the color field, I now create a
+# flat_name series that takes the manufacturer, series, and color names and adds it to the field.
+
 merge_df['Flat_Name'] = merge_df['Manufacturer'].str.strip() + "_" + merge_df['Series'].str.strip() + merge_df['Color'].str.strip()
+
+# I referenced this bit of code in the 'text_name' comment above (line 79) - this checks to see if the texture rccp number for a given 
+# product is the same as the next in the spreadsheet. If it is, the text_name stays the same, only showing manufacturer and series. If
+# they do not match, this code will append the color name to the text_name field.
 
 for i in range(number_of_cell - 1):
     if merge_df['Texture RCCP'][i] != merge_df['Texture RCCP'][i+1]:
         merge_df['Text_Name'][i] = merge_df['Text_Name'][i].strip() + "_" + merge_df['Color'][i].strip()
+
+# This for loop is used to address a situation where a product and the proceeding product have the same flat rccp number. In these 
+# instances, have the _Part1 ending is of very little value, and will likely confuse the user - so this loop will remove that where
+# necessary
 
 for i in range(number_of_cell - 1):  
     if merge_df['Flat RCCP'][i] == merge_df['Flat RCCP'][i+1]:
@@ -121,6 +146,10 @@ for file in filelist[:]: # filelist[:] makes a copy of filelist
     print(file)
 number_of_files = len(filelist)
 
+# Here the code will prompt the operator to enter a path for a desired source files folder, and will create that folder in the
+# local directory - this is where the original images will be copied too so that operators have a fall back just in case the renaming
+# script does not function properly and you do not lose a whole day of photoshoots.
+
 copiedDir = input("Please enter a directory path to store your source images: ")
 os.mkdir(copiedDir)
 
@@ -137,7 +166,8 @@ os.mkdir(copiedDir)
 # format
 #
 # Now I loop through the code - I do a check to see if the name of a given file - matches either the Flat RCCP or Texture RCCP value in the dataframe
-# if they match, then I use the os.rename function to rename the old file to the new file names I generated above
+# if they match, then I use the shutil.copy function to copy the original file to the source file folder that was created in line 153, and
+# the os.rename function to rename the old file to the new file names I generated above
 # if they don't, I have it print out a statement saying that no match was found
 
 for i in range(number_of_cell):
