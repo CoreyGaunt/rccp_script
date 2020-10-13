@@ -1,179 +1,180 @@
-,Manufacturer,Series,Color,Flat RCCP,Texture RCCP,product_key
-0,Bedrosians,"3-4"" Penny Rounds Gloss Mosaic",Dove Grey  ,454_FLT.dng,213_TXT.dng,"3-4"" Penny Rounds Gloss MosaicDove Grey"
-1,Bedrosians,"3-4"" Penny Rounds Gloss Mosaic",Off White  ,453_FLT.dng,212_TXT.dng,"3-4"" Penny Rounds Gloss MosaicOff White"
-2,Bedrosians,"3-4"" Penny Rounds Gloss Mosaic",White   ,452_FLT.dng,211_TXT.dng,"3-4"" Penny Rounds Gloss MosaicWhite"
-3,Bedrosians,"3-4"" Penny Rounds Matte Mosaic",Beige   ,451_FLT.dng,210_TXT.dng,"3-4"" Penny Rounds Matte MosaicBeige"
-4,Bedrosians,"3-4"" Penny Rounds Matte Mosaic",Charcoal   ,-_FLT.dng,-_TXT.dng,"3-4"" Penny Rounds Matte MosaicCharcoal"
-5,Bedrosians,"3-4"" Penny Rounds Matte Mosaic",Iron   ,449_FLT.dng,208_TXT.dng,"3-4"" Penny Rounds Matte MosaicIron"
-6,Bedrosians,"3-4"" Penny Rounds Matte Mosaic",Pumice   ,450_FLT.dng,209_TXT.dng,"3-4"" Penny Rounds Matte MosaicPumice"
-7,Bedrosians,"3-4"" Penny Rounds Matte Mosaic",White   ,-_FLT.dng,-_TXT.dng,"3-4"" Penny Rounds Matte MosaicWhite"
-8,Bedrosians,Allora Hexagon Pattern,Fiore_Part1,546_FLT.dng,269_TXT.dng,Allora Hexagon PatternFiore
-9,Bedrosians,Allora Hexagon Pattern,Fiore_Part2,547_FLT.dng,269_TXT.dng,Allora Hexagon PatternFiore
-10,Bedrosians,Allora Hexagon Pattern,Stella_Part1,518_FLT.dng,253_TXT.dng,Allora Hexagon PatternStella
-11,Bedrosians,Allora Hexagon Pattern,Stella_Part2,519_FLT.dng,253_TXT.dng,Allora Hexagon PatternStella
-12,Bedrosians,Allora Hexagon Pattern,Beige,not a tile_FLT.dng,not a tile_TXT.dng,Allora Hexagon PatternBeige
-13,Bedrosians,Allora Hexagon Solid Color,Solid Black_Part1,514_FLT.dng,251_TXT.dng,Allora Hexagon Solid ColorSolid Black
-14,Bedrosians,Allora Hexagon Solid Color,Solid Black_Part2,515_FLT.dng,251_TXT.dng,Allora Hexagon Solid ColorSolid Black
-15,Bedrosians,Allora Hexagon Solid Color,Solid Grey  ,see priority tab_FLT.dng,see priority tab_TXT.dng,Allora Hexagon Solid ColorSolid Grey
-16,Bedrosians,Allora Hexagon Solid Color,Solid White  ,see priority tab_FLT.dng,see priority tab_TXT.dng,Allora Hexagon Solid ColorSolid White
-17,Bedrosians,Allways,Bench_Part1,522_FLT.dng,255_TXT.dng,AllwaysBench
-18,Bedrosians,Allways,Bench_Part2,523_FLT.dng,255_TXT.dng,AllwaysBench
-19,Bedrosians,Allways,Fence_Part1,526_FLT.dng,257_TXT.dng,AllwaysFence
-20,Bedrosians,Allways,Fence_Part2,527_FLT.dng,257_TXT.dng,AllwaysFence
-21,Bedrosians,Allways,Oat_Part1,510_FLT.dng,249_TXT.dng,AllwaysOat
-22,Bedrosians,Allways,Oat_Part2,511_FLT.dng,249_TXT.dng,AllwaysOat
-23,Bedrosians,Allways,Wagon_Part1,524_FLT.dng,256_TXT.dng,AllwaysWagon
-24,Bedrosians,Allways,Wagon_Part2,525_FLT.dng,256_TXT.dng,AllwaysWagon
-25,Bedrosians,Barrique,Fonce_Part1,520_FLT.dng,254_TXT.dng,BarriqueFonce
-26,Bedrosians,Barrique,Fonce_Part2,521_FLT.dng,254_TXT.dng,BarriqueFonce
-27,Bedrosians,Barrique,Gris_Part1,491_FLT.dng,238_TXT.dng,BarriqueGris
-28,Bedrosians,Barrique,Gris_Part2,492_FLT.dng,238_TXT.dng,BarriqueGris
-29,Bedrosians,Barrique,Vert_Part1,493_FLT.dng,239_TXT.dng,BarriqueVert
-30,Bedrosians,Barrique,Vert_Part2,494_FLT.dng,239_TXT.dng,BarriqueVert
-31,Bedrosians,Brooklyn Gloss,Statuario_Part1,512_FLT.dng,250_TXT.dng,Brooklyn GlossStatuario
-32,Bedrosians,Brooklyn Gloss,Statuario_Part2,513_FLT.dng,250_TXT.dng,Brooklyn GlossStatuario
-33,Bedrosians,Classic,Bardiglietto   ,566_FLT.dng,284_TXT.dng,ClassicBardiglietto
-34,Bedrosians,Classic,Cremino   ,571_FLT.dng,289_TXT.dng,ClassicCremino
-35,Bedrosians,Classic,Statuarietto   ,572_FLT.dng,290_TXT.dng,ClassicStatuarietto
-36,Bedrosians,Classic 2x2 Mosaic,Cremino   ,443_FLT.dng,202_TXT.dng,Classic 2x2 MosaicCremino
-37,Bedrosians,Classic 2x2 Mosaic,Statuarietto   ,442_FLT.dng,201_TXT.dng,Classic 2x2 MosaicStatuarietto
-38,Bedrosians,Cloe,Baby Blue  ,534_FLT.dng,262_TXT.dng,CloeBaby Blue
-39,Bedrosians,Cloe,Grey   ,528_FLT.dng,258_TXT.dng,CloeGrey
-40,Bedrosians,Cloe,Pink   ,533_FLT.dng,261_TXT.dng,CloePink
-41,Bedrosians,Cloe,White   ,535_FLT.dng,263_TXT.dng,CloeWhite
-42,Bedrosians,Cloe Loire,Loire   ,553_FLT.dng,275_TXT.dng,Cloe LoireLoire
-43,Bedrosians,Glazed 2x2 Matte Mosaic,White   ,need to find_FLT.dng,need to find_TXT.dng,Glazed 2x2 Matte MosaicWhite
-44,Bedrosians,Grace Gloss,Bianco   ,need to find_FLT.dng,need to find_TXT.dng,Grace GlossBianco
-45,Bedrosians,Grace Gloss,Grigio   ,497_FLT.dng,241_TXT.dng,Grace GlossGrigio
-46,Bedrosians,Grace Gloss,Moka   ,509_FLT.dng,248_TXT.dng,Grace GlossMoka
-47,Bedrosians,Grace Gloss,Panna   ,500_FLT.dng,243_TXT.dng,Grace GlossPanna
-48,Bedrosians,Grace Gloss,Sabia   ,496_FLT.dng,240_TXT.dng,Grace GlossSabia
-49,Bedrosians,Mallorca Arabesque Gloss Mosaic,Mist   ,472_FLT.dng,223_TXT.dng,Mallorca Arabesque Gloss MosaicMist
-50,Bedrosians,Mallorca Arabesque Gloss Mosaic,Pelican   ,470_FLT.dng,221_TXT.dng,Mallorca Arabesque Gloss MosaicPelican
-51,Bedrosians,Mallorca Arabesque Gloss Mosaic,White Linen  ,471_FLT.dng,222_TXT.dng,Mallorca Arabesque Gloss MosaicWhite Linen
-52,Bedrosians,Mallorca Flora Mosaic Blend,White Linen-Mist  ,467_FLT.dng,218_TXT.dng,Mallorca Flora Mosaic BlendWhite Linen-Mist
-53,Bedrosians,Mallorca Velez Mist-Cliff Mosaic Blend G,Mist (outside)-Cliff (center) ,469_FLT.dng,220_TXT.dng,Mallorca Velez Mist-Cliff Mosaic Blend GMist (outside)-Cliff (center)
-54,Bedrosians,Mallorca Velez Pelican-Mist Mosaic Blend G,Pelican (outside)-Mist (center) ,468_FLT.dng,219_TXT.dng,Mallorca Velez Pelican-Mist Mosaic Blend GPelican (outside)-Mist (center)
-55,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Broadway_Part1,576_FLT.dng,295_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboBroadway
-56,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Broadway_Part2,576_FLT.dng,296_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboBroadway
-57,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Flatiron_Part1,579_FLT.dng,301_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboFlatiron
-58,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Flatiron_Part2,579_FLT.dng,302_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboFlatiron
-59,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,MacArthur_Part1,578_FLT.dng,299_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboMacArthur
-60,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,MacArthur_Part2,578_FLT.dng,300_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboMacArthur
-61,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Skyline_Part1,575_FLT.dng,293_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboSkyline
-62,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Skyline_Part2,575_FLT.dng,294_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboSkyline
-63,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Soho_Part1,577_FLT.dng,297_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboSoho
-64,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Soho_Part2,577_FLT.dng,298_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboSoho
-65,Bedrosians,Manhattan Gloss,Ash_Part1,480_FLT.dng,232_TXT.dng,Manhattan GlossAsh
-66,Bedrosians,Manhattan Gloss,Ash_Part2,480_FLT.dng,225_TXT.dng,Manhattan GlossAsh
-67,Bedrosians,Manhattan Gloss,Cashmere_Part1,473_FLT.dng,224_TXT.dng,Manhattan GlossCashmere
-68,Bedrosians,Manhattan Gloss,Cashmere_Part2,473_FLT.dng,225_TXT.dng,Manhattan GlossCashmere
-69,Bedrosians,Manhattan Gloss,Coast_Part1,474_FLT.dng,226_TXT.dng,Manhattan GlossCoast
-70,Bedrosians,Manhattan Gloss,Coast_Part2,474_FLT.dng,225_TXT.dng,Manhattan GlossCoast
-71,Bedrosians,Manhattan Gloss,Concrete_Part1,479_FLT.dng,231_TXT.dng,Manhattan GlossConcrete
-72,Bedrosians,Manhattan Gloss,Concrete_Part2,479_FLT.dng,225_TXT.dng,Manhattan GlossConcrete
-73,Bedrosians,Manhattan Gloss,Madison_Part1,476_FLT.dng,228_TXT.dng,Manhattan GlossMadison
-74,Bedrosians,Manhattan Gloss,Madison_Part2,476_FLT.dng,225_TXT.dng,Manhattan GlossMadison
-75,Bedrosians,Manhattan Gloss,Pearl_Part1,478_FLT.dng,230_TXT.dng,Manhattan GlossPearl
-76,Bedrosians,Manhattan Gloss,Pearl_Part2,478_FLT.dng,225_TXT.dng,Manhattan GlossPearl
-77,Bedrosians,Manhattan Gloss,Platinum_Part1,475_FLT.dng,227_TXT.dng,Manhattan GlossPlatinum
-78,Bedrosians,Manhattan Gloss,Platinum_Part2,475_FLT.dng,225_TXT.dng,Manhattan GlossPlatinum
-79,Bedrosians,Manhattan Gloss,Silk_Part1,477_FLT.dng,229_TXT.dng,Manhattan GlossSilk
-80,Bedrosians,Manhattan Gloss,Silk_Part2,477_FLT.dng,225_TXT.dng,Manhattan GlossSilk
-81,Bedrosians,Matrix,Azul_Part1,516_FLT.dng,252_TXT.dng,MatrixAzul
-82,Bedrosians,Matrix,Azul_Part2,517_FLT.dng,252_TXT.dng,MatrixAzul
-83,Bedrosians,Matrix,Classic Tan_Part1,559_FLT.dng,252_TXT.dng,MatrixClassic Tan
-84,Bedrosians,Matrix,Classic Tan_Part2,560_FLT.dng,252_TXT.dng,MatrixClassic Tan
-85,Bedrosians,Metro Plus,Country Beige  ,586_FLT.dng,309_TXT.dng,Metro PlusCountry Beige
-86,Bedrosians,Metro Plus,Long Island Sky ,585_FLT.dng,308_TXT.dng,Metro PlusLong Island Sky
-87,Bedrosians,Metro Plus,Manhatten Mist  ,584_FLT.dng,307_TXT.dng,Metro PlusManhatten Mist
-88,Bedrosians,Metro Plus,Stealth Jet  ,583_FLT.dng,306_TXT.dng,Metro PlusStealth Jet
-89,Bedrosians,Metro Plus Listello,Coco Rum-City Slicker_Part1,485_FLT.dng,235_TXT.dng,Metro Plus ListelloCoco Rum-City Slicker
-90,Bedrosians,Metro Plus Listello,Coco Rum-City Slicker_Part2,486_FLT.dng,235_TXT.dng,Metro Plus ListelloCoco Rum-City Slicker
-91,Bedrosians,Metro Plus Listello,Stealth Jet-Manhattan Mist_Part1,481_FLT.dng,233_TXT.dng,Metro Plus ListelloStealth Jet-Manhattan Mist
-92,Bedrosians,Metro Plus Listello,Stealth Jet-Manhattan Mist_Part2,482_FLT.dng,233_TXT.dng,Metro Plus ListelloStealth Jet-Manhattan Mist
-93,Bedrosians,Officine,Dark_Part1,487_FLT.dng,236_TXT.dng,OfficineDark
-94,Bedrosians,Officine,Dark_Part2,488_FLT.dng,236_TXT.dng,OfficineDark
-95,Bedrosians,Officine,Gothic_Part1,489_FLT.dng,237_TXT.dng,OfficineGothic
-96,Bedrosians,Officine,Gothic_Part2,490_FLT.dng,237_TXT.dng,OfficineGothic
-97,Bedrosians,Officine,Romantic_Part1,483_FLT.dng,234_TXT.dng,OfficineRomantic
-98,Bedrosians,Officine,Romantic_Part2,484_FLT.dng,234_TXT.dng,OfficineRomantic
-99,Bedrosians,Officine 2x2 Mosaic,Acid   ,-_FLT.dng,-_TXT.dng,Officine 2x2 MosaicAcid
-100,Bedrosians,Officine 2x2 Mosaic,Dark   ,438_FLT.dng,197_TXT.dng,Officine 2x2 MosaicDark
-101,Bedrosians,Officine 2x2 Mosaic,Gothic   ,437_FLT.dng,196_TXT.dng,Officine 2x2 MosaicGothic
-102,Bedrosians,Officine 2x2 Mosaic,Romantic   ,436_FLT.dng,195_TXT.dng,Officine 2x2 MosaicRomantic
-103,Bedrosians,Palazzo,Antique Cotto  ,-_FLT.dng,-_TXT.dng,PalazzoAntique Cotto
-104,Bedrosians,Palazzo,Castle Graphite  ,-_FLT.dng,-_TXT.dng,PalazzoCastle Graphite
-105,Bedrosians,Palazzo,Vitange Grey  ,-_FLT.dng,-_TXT.dng,PalazzoVitange Grey
-106,Bedrosians,Palazzo Bloom Deco,Antique Cotto  ,465_FLT.dng,217_TXT.dng,Palazzo Bloom DecoAntique Cotto
-107,Bedrosians,Palazzo Bloom Deco,Castle Graphite  ,464_FLT.dng,217_TXT.dng,Palazzo Bloom DecoCastle Graphite
-108,Bedrosians,Palazzo Bloom Deco,Vintage Grey  ,466_FLT.dng,217_TXT.dng,Palazzo Bloom DecoVintage Grey
-109,Bedrosians,Palazzo Dynasty Deco,Antique Cotto  ,463_FLT.dng,216_TXT.dng,Palazzo Dynasty DecoAntique Cotto
-110,Bedrosians,Palazzo Dynasty Deco,Castle Graphite  ,462_FLT.dng,216_TXT.dng,Palazzo Dynasty DecoCastle Graphite
-111,Bedrosians,Palazzo Dynasty Deco,Vintage Grey  ,461_FLT.dng,216_TXT.dng,Palazzo Dynasty DecoVintage Grey
-112,Bedrosians,Palazzo Florentina Deco,Antique Cotto  ,459_FLT.dng,215_TXT.dng,Palazzo Florentina DecoAntique Cotto
-113,Bedrosians,Palazzo Florentina Deco,Castle Graphite  ,458_FLT.dng,215_TXT.dng,Palazzo Florentina DecoCastle Graphite
-114,Bedrosians,Palazzo Florentina Deco,Vintage Grey  ,460_FLT.dng,215_TXT.dng,Palazzo Florentina DecoVintage Grey
-115,Bedrosians,Palazzo Villa Deco,Antique Cotto  ,455_FLT.dng,214_TXT.dng,Palazzo Villa DecoAntique Cotto
-116,Bedrosians,Palazzo Villa Deco,Castle Graphite  ,456_FLT.dng,214_TXT.dng,Palazzo Villa DecoCastle Graphite
-117,Bedrosians,Palazzo Villa Deco,Vintage Grey  ,457_FLT.dng,214_TXT.dng,Palazzo Villa DecoVintage Grey
-118,Bedrosians,Pulpis,Beige_Part1,505_FLT.dng,246_TXT.dng,PulpisBeige
-119,Bedrosians,Pulpis,Beige_Part2,506_FLT.dng,246_TXT.dng,PulpisBeige
-120,Bedrosians,Pulpis,Bianco_Part1,501_FLT.dng,244_TXT.dng,PulpisBianco
-121,Bedrosians,Pulpis,Bianco_Part2,502_FLT.dng,244_TXT.dng,PulpisBianco
-122,Bedrosians,Pulpis,Grigio_Part1,503_FLT.dng,245_TXT.dng,PulpisGrigio
-123,Bedrosians,Pulpis,Grigio_Part2,504_FLT.dng,245_TXT.dng,PulpisGrigio
-124,Bedrosians,Pulpis,Puro_Part1,507_FLT.dng,247_TXT.dng,PulpisPuro
-125,Bedrosians,Pulpis,Puro_Part2,508_FLT.dng,247_TXT.dng,PulpisPuro
-126,Bedrosians,Pulpis,Tortora_Part1,497_FLT.dng,242_TXT.dng,PulpisTortora
-127,Bedrosians,Pulpis,Tortora_Part2,498_FLT.dng,242_TXT.dng,PulpisTortora
-128,Bedrosians,Pulpis 1x2 Mosiac,Beige   ,446_FLT.dng,205_TXT.dng,Pulpis 1x2 MosiacBeige
-129,Bedrosians,Pulpis 1x2 Mosiac,Bianco   ,444_FLT.dng,203_TXT.dng,Pulpis 1x2 MosiacBianco
-130,Bedrosians,Pulpis 1x2 Mosiac,Grigio   ,445_FLT.dng,204_TXT.dng,Pulpis 1x2 MosiacGrigio
-131,Bedrosians,Pulpis 1x2 Mosiac,Puro   ,448_FLT.dng,207_TXT.dng,Pulpis 1x2 MosiacPuro
-132,Bedrosians,Pulpis 1x2 Mosiac,Tortora   ,447_FLT.dng,206_TXT.dng,Pulpis 1x2 MosiacTortora
-133,Bedrosians,Roma,Almond   ,570_FLT.dng,288_TXT.dng,RomaAlmond
-134,Bedrosians,Roma,Beige   ,573_FLT.dng,291_TXT.dng,RomaBeige
-135,Bedrosians,Roma,Noce   ,574_FLT.dng,292_TXT.dng,RomaNoce
-136,Bedrosians,Serenity,Beige_Part1,529_FLT.dng,259_TXT.dng,SerenityBeige
-137,Bedrosians,Serenity,Beige_Part2,530_FLT.dng,259_TXT.dng,SerenityBeige
-138,Bedrosians,Serenity,Grey_Part1,531_FLT.dng,260_TXT.dng,SerenityGrey
-139,Bedrosians,Serenity,Grey_Part2,532_FLT.dng,260_TXT.dng,SerenityGrey
-140,Bedrosians,Serenity,White   ,569_FLT.dng,287_TXT.dng,SerenityWhite
-141,Bedrosians,Simply Modern,CrÃ¨me_Part1,556_FLT.dng,277_TXT.dng,Simply ModernCrÃ¨me
-142,Bedrosians,Simply Modern,CrÃ¨me_Part2,557_FLT.dng,277_TXT.dng,Simply ModernCrÃ¨me
-143,Bedrosians,Simply Modern,Gray_Part1,554_FLT.dng,276_TXT.dng,Simply ModernGray
-144,Bedrosians,Simply Modern,Gray_Part2,555_FLT.dng,276_TXT.dng,Simply ModernGray
-145,Bedrosians,Simply Modern 2x2 Mosaic,Black   ,-_FLT.dng,-_TXT.dng,Simply Modern 2x2 MosaicBlack
-146,Bedrosians,Simply Modern 2x2 Mosaic,CrÃ¨me   ,-_FLT.dng,-_TXT.dng,Simply Modern 2x2 MosaicCrÃ¨me
-147,Bedrosians,Simply Modern 2x2 Mosaic,Grey   ,-_FLT.dng,-_TXT.dng,Simply Modern 2x2 MosaicGrey
-148,Bedrosians,Stonefire,Beige   ,568_FLT.dng,286_TXT.dng,StonefireBeige
-149,Bedrosians,Stonefire,Noce   ,567_FLT.dng,285_TXT.dng,StonefireNoce
-150,Bedrosians,Stonefire 2X2 Mosaic,Beige   ,581_FLT.dng,304_TXT.dng,Stonefire 2X2 MosaicBeige
-151,Bedrosians,Stonefire 2X2 Mosaic,Grey   ,580_FLT.dng,303_TXT.dng,Stonefire 2X2 MosaicGrey
-152,Bedrosians,Stonefire 2X2 Mosaic,Noce   ,582_FLT.dng,305_TXT.dng,Stonefire 2X2 MosaicNoce
-153,Bedrosians,Tahoe,Barrel_Part1,542_FLT.dng,267_TXT.dng,TahoeBarrel
-154,Bedrosians,Tahoe,Barrel_Part2,543_FLT.dng,267_TXT.dng,TahoeBarrel
-155,Bedrosians,Tahoe,Glacier_Part1,538_FLT.dng,265_TXT.dng,TahoeGlacier
-156,Bedrosians,Tahoe,Glacier_Part2,539_FLT.dng,265_TXT.dng,TahoeGlacier
-157,Bedrosians,Tahoe,Lodge_Part1,540_FLT.dng,266_TXT.dng,TahoeLodge
-158,Bedrosians,Tahoe,Lodge_Part2,541_FLT.dng,266_TXT.dng,TahoeLodge
-159,Bedrosians,Tahoe,Summit_Part1,544_FLT.dng,268_TXT.dng,TahoeSummit
-160,Bedrosians,Tahoe,Summit_Part2,545_FLT.dng,268_TXT.dng,TahoeSummit
-161,Bedrosians,Traditions,Ice White   ,558_FLT.dng,278_TXT.dng,TraditionsIce White
-162,Bedrosians,Winter 8x24 Honed,Blanco_Part1,597_FLT.dng,320_TXT.dng,Winter 8x24 HonedBlanco
-163,Bedrosians,Winter 8x24 Honed,Blanco_Part2,598_FLT.dng,320_TXT.dng,Winter 8x24 HonedBlanco
-164,Bedrosians,Winter 8x24 Honed,Gris_Part1,536_FLT.dng,264_TXT.dng,Winter 8x24 HonedGris
-165,Bedrosians,Winter 8x24 Honed,Gris_Part2,537_FLT.dng,264_TXT.dng,Winter 8x24 HonedGris
-166,Bedrosians,Zebrino,Calacatta Polished  ,-_FLT.dng,-_TXT.dng,ZebrinoCalacatta Polished
-167,Bedrosians,Zebrino 2X2 Mosaic,Bluette   ,440_FLT.dng,199_TXT.dng,Zebrino 2X2 MosaicBluette
-168,Bedrosians,Zebrino 2X2 Mosaic,Calacatta   ,441_FLT.dng,200_TXT.dng,Zebrino 2X2 MosaicCalacatta
-169,Bedrosians,Zebrino 2X2 Mosaic,Michelangelo   ,439_FLT.dng,198_TXT.dng,Zebrino 2X2 MosaicMichelangelo
-170,Bedrosians,Zebrino Chelsea Honed Mosaic,Bluette   ,563_FLT.dng,281_TXT.dng,Zebrino Chelsea Honed MosaicBluette
-171,Bedrosians,Zebrino Chelsea Honed Mosaic,Calacatta   ,562_FLT.dng,280_TXT.dng,Zebrino Chelsea Honed MosaicCalacatta
-172,Bedrosians,Zebrino Chelsea Honed Mosaic,Michelangelo   ,561_FLT.dng,279_TXT.dng,Zebrino Chelsea Honed MosaicMichelangelo
-173,Bedrosians,Zenith Gloss,Tide   ,549_FLT.dng,271_TXT.dng,Zenith GlossTide
-174,Bedrosians,Zenith Matte,Moon   ,548_FLT.dng,270_TXT.dng,Zenith MatteMoon
-175,Bedrosians,Zenith Matte,Orion   ,552_FLT.dng,274_TXT.dng,Zenith MatteOrion
-176,Bedrosians,Zenith Matte,Solar   ,550_FLT.dng,272_TXT.dng,Zenith MatteSolar
-177,Bedrosians,Zenith Matte,Umbra   ,551_FLT.dng,273_TXT.dng,Zenith MatteUmbra
+,Manufacturer,Series,Color,Flat RCCP,Texture RCCP,product_key,Text_Name,Flat_Name
+0,Bedrosians,"3-4"" Penny Rounds Gloss Mosaic",Dove Grey  ,454_FLT.dng,213_TXT.dng,"3-4"" Penny Rounds Gloss MosaicDove Grey","Bedrosians_3-4"" Penny Rounds Gloss Mosaic_Dove Grey","Bedrosians_3-4"" Penny Rounds Gloss MosaicDove Grey"
+1,Bedrosians,"3-4"" Penny Rounds Gloss Mosaic",Off White  ,453_FLT.dng,212_TXT.dng,"3-4"" Penny Rounds Gloss MosaicOff White","Bedrosians_3-4"" Penny Rounds Gloss Mosaic_Off White","Bedrosians_3-4"" Penny Rounds Gloss MosaicOff White"
+2,Bedrosians,"3-4"" Penny Rounds Gloss Mosaic",White   ,452_FLT.dng,211_TXT.dng,"3-4"" Penny Rounds Gloss MosaicWhite","Bedrosians_3-4"" Penny Rounds Gloss Mosaic_White","Bedrosians_3-4"" Penny Rounds Gloss MosaicWhite"
+3,Bedrosians,"3-4"" Penny Rounds Matte Mosaic",Beige   ,451_FLT.dng,210_TXT.dng,"3-4"" Penny Rounds Matte MosaicBeige","Bedrosians_3-4"" Penny Rounds Matte Mosaic_Beige","Bedrosians_3-4"" Penny Rounds Matte MosaicBeige"
+4,Bedrosians,"3-4"" Penny Rounds Matte Mosaic",Charcoal   ,-_FLT.dng,-_TXT.dng,"3-4"" Penny Rounds Matte MosaicCharcoal","Bedrosians_3-4"" Penny Rounds Matte Mosaic_Charcoal","Bedrosians_3-4"" Penny Rounds Matte MosaicCharcoal"
+5,Bedrosians,"3-4"" Penny Rounds Matte Mosaic",Iron   ,449_FLT.dng,208_TXT.dng,"3-4"" Penny Rounds Matte MosaicIron","Bedrosians_3-4"" Penny Rounds Matte Mosaic_Iron","Bedrosians_3-4"" Penny Rounds Matte MosaicIron"
+6,Bedrosians,"3-4"" Penny Rounds Matte Mosaic",Pumice   ,450_FLT.dng,209_TXT.dng,"3-4"" Penny Rounds Matte MosaicPumice","Bedrosians_3-4"" Penny Rounds Matte Mosaic_Pumice","Bedrosians_3-4"" Penny Rounds Matte MosaicPumice"
+7,Bedrosians,"3-4"" Penny Rounds Matte Mosaic",White   ,-_FLT.dng,-_TXT.dng,"3-4"" Penny Rounds Matte MosaicWhite","Bedrosians_3-4"" Penny Rounds Matte Mosaic_White","Bedrosians_3-4"" Penny Rounds Matte MosaicWhite"
+8,Bedrosians,Allora Hexagon Pattern,Fiore_Part1,546_FLT.dng,269_TXT.dng,Allora Hexagon PatternFiore,Bedrosians_Allora Hexagon Pattern,Bedrosians_Allora Hexagon PatternFiore_Part1
+9,Bedrosians,Allora Hexagon Pattern,Fiore_Part2,547_FLT.dng,269_TXT.dng,Allora Hexagon PatternFiore,Bedrosians_Allora Hexagon Pattern_Fiore_Part2,Bedrosians_Allora Hexagon PatternFiore_Part2
+10,Bedrosians,Allora Hexagon Pattern,Stella_Part1,518_FLT.dng,253_TXT.dng,Allora Hexagon PatternStella,Bedrosians_Allora Hexagon Pattern,Bedrosians_Allora Hexagon PatternStella_Part1
+11,Bedrosians,Allora Hexagon Pattern,Stella_Part2,519_FLT.dng,253_TXT.dng,Allora Hexagon PatternStella,Bedrosians_Allora Hexagon Pattern_Stella_Part2,Bedrosians_Allora Hexagon PatternStella_Part2
+12,Bedrosians,Allora Hexagon Pattern,Beige,not a tile_FLT.dng,not a tile_TXT.dng,Allora Hexagon PatternBeige,Bedrosians_Allora Hexagon Pattern_Beige,Bedrosians_Allora Hexagon PatternBeige
+13,Bedrosians,Allora Hexagon Solid Color,Solid Black_Part1,514_FLT.dng,251_TXT.dng,Allora Hexagon Solid ColorSolid Black,Bedrosians_Allora Hexagon Solid Color,Bedrosians_Allora Hexagon Solid ColorSolid Black_Part1
+14,Bedrosians,Allora Hexagon Solid Color,Solid Black_Part2,515_FLT.dng,251_TXT.dng,Allora Hexagon Solid ColorSolid Black,Bedrosians_Allora Hexagon Solid Color_Solid Black_Part2,Bedrosians_Allora Hexagon Solid ColorSolid Black_Part2
+15,Bedrosians,Allora Hexagon Solid Color,Solid Grey  ,see priority tab_FLT.dng,see priority tab_TXT.dng,Allora Hexagon Solid ColorSolid Grey,Bedrosians_Allora Hexagon Solid Color,Bedrosians_Allora Hexagon Solid ColorSolid Grey
+16,Bedrosians,Allora Hexagon Solid Color,Solid White  ,see priority tab_FLT.dng,see priority tab_TXT.dng,Allora Hexagon Solid ColorSolid White,Bedrosians_Allora Hexagon Solid Color_Solid White,Bedrosians_Allora Hexagon Solid ColorSolid White
+17,Bedrosians,Allways,Bench_Part1,522_FLT.dng,255_TXT.dng,AllwaysBench,Bedrosians_Allways,Bedrosians_AllwaysBench_Part1
+18,Bedrosians,Allways,Bench_Part2,523_FLT.dng,255_TXT.dng,AllwaysBench,Bedrosians_Allways_Bench_Part2,Bedrosians_AllwaysBench_Part2
+19,Bedrosians,Allways,Fence_Part1,526_FLT.dng,257_TXT.dng,AllwaysFence,Bedrosians_Allways,Bedrosians_AllwaysFence_Part1
+20,Bedrosians,Allways,Fence_Part2,527_FLT.dng,257_TXT.dng,AllwaysFence,Bedrosians_Allways_Fence_Part2,Bedrosians_AllwaysFence_Part2
+21,Bedrosians,Allways,Oat_Part1,510_FLT.dng,249_TXT.dng,AllwaysOat,Bedrosians_Allways,Bedrosians_AllwaysOat_Part1
+22,Bedrosians,Allways,Oat_Part2,511_FLT.dng,249_TXT.dng,AllwaysOat,Bedrosians_Allways_Oat_Part2,Bedrosians_AllwaysOat_Part2
+23,Bedrosians,Allways,Wagon_Part1,524_FLT.dng,256_TXT.dng,AllwaysWagon,Bedrosians_Allways,Bedrosians_AllwaysWagon_Part1
+24,Bedrosians,Allways,Wagon_Part2,525_FLT.dng,256_TXT.dng,AllwaysWagon,Bedrosians_Allways_Wagon_Part2,Bedrosians_AllwaysWagon_Part2
+25,Bedrosians,Barrique,Fonce_Part1,520_FLT.dng,254_TXT.dng,BarriqueFonce,Bedrosians_Barrique,Bedrosians_BarriqueFonce_Part1
+26,Bedrosians,Barrique,Fonce_Part2,521_FLT.dng,254_TXT.dng,BarriqueFonce,Bedrosians_Barrique_Fonce_Part2,Bedrosians_BarriqueFonce_Part2
+27,Bedrosians,Barrique,Gris_Part1,491_FLT.dng,238_TXT.dng,BarriqueGris,Bedrosians_Barrique,Bedrosians_BarriqueGris_Part1
+28,Bedrosians,Barrique,Gris_Part2,492_FLT.dng,238_TXT.dng,BarriqueGris,Bedrosians_Barrique_Gris_Part2,Bedrosians_BarriqueGris_Part2
+29,Bedrosians,Barrique,Vert_Part1,493_FLT.dng,239_TXT.dng,BarriqueVert,Bedrosians_Barrique,Bedrosians_BarriqueVert_Part1
+30,Bedrosians,Barrique,Vert_Part2,494_FLT.dng,239_TXT.dng,BarriqueVert,Bedrosians_Barrique_Vert_Part2,Bedrosians_BarriqueVert_Part2
+31,Bedrosians,Brooklyn Gloss,Statuario_Part1,512_FLT.dng,250_TXT.dng,Brooklyn GlossStatuario,Bedrosians_Brooklyn Gloss,Bedrosians_Brooklyn GlossStatuario_Part1
+32,Bedrosians,Brooklyn Gloss,Statuario_Part2,513_FLT.dng,250_TXT.dng,Brooklyn GlossStatuario,Bedrosians_Brooklyn Gloss_Statuario_Part2,Bedrosians_Brooklyn GlossStatuario_Part2
+33,Bedrosians,Classic,Bardiglietto   ,566_FLT.dng,284_TXT.dng,ClassicBardiglietto,Bedrosians_Classic_Bardiglietto,Bedrosians_ClassicBardiglietto
+34,Bedrosians,Classic,Cremino_Part1,571_FLT.dng,289_TXT.dng,ClassicCremino,Bedrosians_Classic_Cremino_Part1,Bedrosians_ClassicCremino
+35,Bedrosians,Classic,Cremino_Part2,571_FLT.dng,4000_TXT.dng,ClassicCremino,Bedrosians_Classic_Cremino_Part2,Bedrosians_ClassicCremino_Part2
+36,Bedrosians,Classic,Statuarietto   ,572_FLT.dng,290_TXT.dng,ClassicStatuarietto,Bedrosians_Classic_Statuarietto,Bedrosians_ClassicStatuarietto
+37,Bedrosians,Classic 2x2 Mosaic,Cremino   ,443_FLT.dng,202_TXT.dng,Classic 2x2 MosaicCremino,Bedrosians_Classic 2x2 Mosaic_Cremino,Bedrosians_Classic 2x2 MosaicCremino
+38,Bedrosians,Classic 2x2 Mosaic,Statuarietto   ,442_FLT.dng,201_TXT.dng,Classic 2x2 MosaicStatuarietto,Bedrosians_Classic 2x2 Mosaic_Statuarietto,Bedrosians_Classic 2x2 MosaicStatuarietto
+39,Bedrosians,Cloe,Baby Blue  ,534_FLT.dng,262_TXT.dng,CloeBaby Blue,Bedrosians_Cloe_Baby Blue,Bedrosians_CloeBaby Blue
+40,Bedrosians,Cloe,Grey   ,528_FLT.dng,258_TXT.dng,CloeGrey,Bedrosians_Cloe_Grey,Bedrosians_CloeGrey
+41,Bedrosians,Cloe,Pink   ,533_FLT.dng,261_TXT.dng,CloePink,Bedrosians_Cloe_Pink,Bedrosians_CloePink
+42,Bedrosians,Cloe,White   ,535_FLT.dng,263_TXT.dng,CloeWhite,Bedrosians_Cloe_White,Bedrosians_CloeWhite
+43,Bedrosians,Cloe Loire,Loire   ,553_FLT.dng,275_TXT.dng,Cloe LoireLoire,Bedrosians_Cloe Loire_Loire,Bedrosians_Cloe LoireLoire
+44,Bedrosians,Glazed 2x2 Matte Mosaic,White   ,need to find_FLT.dng,need to find_TXT.dng,Glazed 2x2 Matte MosaicWhite,Bedrosians_Glazed 2x2 Matte Mosaic,Bedrosians_Glazed 2x2 Matte MosaicWhite
+45,Bedrosians,Grace Gloss,Bianco   ,need to find_FLT.dng,need to find_TXT.dng,Grace GlossBianco,Bedrosians_Grace Gloss_Bianco,Bedrosians_Grace GlossBianco
+46,Bedrosians,Grace Gloss,Grigio   ,497_FLT.dng,241_TXT.dng,Grace GlossGrigio,Bedrosians_Grace Gloss_Grigio,Bedrosians_Grace GlossGrigio
+47,Bedrosians,Grace Gloss,Moka   ,509_FLT.dng,248_TXT.dng,Grace GlossMoka,Bedrosians_Grace Gloss_Moka,Bedrosians_Grace GlossMoka
+48,Bedrosians,Grace Gloss,Panna   ,500_FLT.dng,243_TXT.dng,Grace GlossPanna,Bedrosians_Grace Gloss_Panna,Bedrosians_Grace GlossPanna
+49,Bedrosians,Grace Gloss,Sabia   ,496_FLT.dng,240_TXT.dng,Grace GlossSabia,Bedrosians_Grace Gloss_Sabia,Bedrosians_Grace GlossSabia
+50,Bedrosians,Mallorca Arabesque Gloss Mosaic,Mist   ,472_FLT.dng,223_TXT.dng,Mallorca Arabesque Gloss MosaicMist,Bedrosians_Mallorca Arabesque Gloss Mosaic_Mist,Bedrosians_Mallorca Arabesque Gloss MosaicMist
+51,Bedrosians,Mallorca Arabesque Gloss Mosaic,Pelican   ,470_FLT.dng,221_TXT.dng,Mallorca Arabesque Gloss MosaicPelican,Bedrosians_Mallorca Arabesque Gloss Mosaic_Pelican,Bedrosians_Mallorca Arabesque Gloss MosaicPelican
+52,Bedrosians,Mallorca Arabesque Gloss Mosaic,White Linen  ,471_FLT.dng,222_TXT.dng,Mallorca Arabesque Gloss MosaicWhite Linen,Bedrosians_Mallorca Arabesque Gloss Mosaic_White Linen,Bedrosians_Mallorca Arabesque Gloss MosaicWhite Linen
+53,Bedrosians,Mallorca Flora Mosaic Blend,White Linen-Mist  ,467_FLT.dng,218_TXT.dng,Mallorca Flora Mosaic BlendWhite Linen-Mist,Bedrosians_Mallorca Flora Mosaic Blend_White Linen-Mist,Bedrosians_Mallorca Flora Mosaic BlendWhite Linen-Mist
+54,Bedrosians,Mallorca Velez Mist-Cliff Mosaic Blend G,Mist (outside)-Cliff (center) ,469_FLT.dng,220_TXT.dng,Mallorca Velez Mist-Cliff Mosaic Blend GMist (outside)-Cliff (center),Bedrosians_Mallorca Velez Mist-Cliff Mosaic Blend G_Mist (outside)-Cliff (center),Bedrosians_Mallorca Velez Mist-Cliff Mosaic Blend GMist (outside)-Cliff (center)
+55,Bedrosians,Mallorca Velez Pelican-Mist Mosaic Blend G,Pelican (outside)-Mist (center) ,468_FLT.dng,219_TXT.dng,Mallorca Velez Pelican-Mist Mosaic Blend GPelican (outside)-Mist (center),Bedrosians_Mallorca Velez Pelican-Mist Mosaic Blend G_Pelican (outside)-Mist (center),Bedrosians_Mallorca Velez Pelican-Mist Mosaic Blend GPelican (outside)-Mist (center)
+56,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Broadway_Part1,576_FLT.dng,295_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboBroadway,Bedrosians_Manhattan Brick Pattern Gloss-Matte Combo_Broadway_Part1,Bedrosians_Manhattan Brick Pattern Gloss-Matte ComboBroadway
+57,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Broadway_Part2,576_FLT.dng,296_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboBroadway,Bedrosians_Manhattan Brick Pattern Gloss-Matte Combo_Broadway_Part2,Bedrosians_Manhattan Brick Pattern Gloss-Matte ComboBroadway_Part2
+58,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Flatiron_Part1,579_FLT.dng,301_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboFlatiron,Bedrosians_Manhattan Brick Pattern Gloss-Matte Combo_Flatiron_Part1,Bedrosians_Manhattan Brick Pattern Gloss-Matte ComboFlatiron
+59,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Flatiron_Part2,579_FLT.dng,302_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboFlatiron,Bedrosians_Manhattan Brick Pattern Gloss-Matte Combo_Flatiron_Part2,Bedrosians_Manhattan Brick Pattern Gloss-Matte ComboFlatiron_Part2
+60,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,MacArthur_Part1,578_FLT.dng,299_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboMacArthur,Bedrosians_Manhattan Brick Pattern Gloss-Matte Combo_MacArthur_Part1,Bedrosians_Manhattan Brick Pattern Gloss-Matte ComboMacArthur
+61,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,MacArthur_Part2,578_FLT.dng,300_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboMacArthur,Bedrosians_Manhattan Brick Pattern Gloss-Matte Combo_MacArthur_Part2,Bedrosians_Manhattan Brick Pattern Gloss-Matte ComboMacArthur_Part2
+62,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Skyline_Part1,575_FLT.dng,293_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboSkyline,Bedrosians_Manhattan Brick Pattern Gloss-Matte Combo_Skyline_Part1,Bedrosians_Manhattan Brick Pattern Gloss-Matte ComboSkyline
+63,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Skyline_Part2,575_FLT.dng,294_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboSkyline,Bedrosians_Manhattan Brick Pattern Gloss-Matte Combo_Skyline_Part2,Bedrosians_Manhattan Brick Pattern Gloss-Matte ComboSkyline_Part2
+64,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Soho_Part1,577_FLT.dng,297_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboSoho,Bedrosians_Manhattan Brick Pattern Gloss-Matte Combo_Soho_Part1,Bedrosians_Manhattan Brick Pattern Gloss-Matte ComboSoho
+65,Bedrosians,Manhattan Brick Pattern Gloss-Matte Combo,Soho_Part2,577_FLT.dng,298_TXT.dng,Manhattan Brick Pattern Gloss-Matte ComboSoho,Bedrosians_Manhattan Brick Pattern Gloss-Matte Combo_Soho_Part2,Bedrosians_Manhattan Brick Pattern Gloss-Matte ComboSoho_Part2
+66,Bedrosians,Manhattan Gloss,Ash_Part1,480_FLT.dng,232_TXT.dng,Manhattan GlossAsh,Bedrosians_Manhattan Gloss_Ash_Part1,Bedrosians_Manhattan GlossAsh
+67,Bedrosians,Manhattan Gloss,Ash_Part2,480_FLT.dng,225_TXT.dng,Manhattan GlossAsh,Bedrosians_Manhattan Gloss_Ash_Part2,Bedrosians_Manhattan GlossAsh_Part2
+68,Bedrosians,Manhattan Gloss,Cashmere_Part1,473_FLT.dng,224_TXT.dng,Manhattan GlossCashmere,Bedrosians_Manhattan Gloss_Cashmere_Part1,Bedrosians_Manhattan GlossCashmere
+69,Bedrosians,Manhattan Gloss,Cashmere_Part2,473_FLT.dng,225_TXT.dng,Manhattan GlossCashmere,Bedrosians_Manhattan Gloss_Cashmere_Part2,Bedrosians_Manhattan GlossCashmere_Part2
+70,Bedrosians,Manhattan Gloss,Coast_Part1,474_FLT.dng,226_TXT.dng,Manhattan GlossCoast,Bedrosians_Manhattan Gloss_Coast_Part1,Bedrosians_Manhattan GlossCoast
+71,Bedrosians,Manhattan Gloss,Coast_Part2,474_FLT.dng,225_TXT.dng,Manhattan GlossCoast,Bedrosians_Manhattan Gloss_Coast_Part2,Bedrosians_Manhattan GlossCoast_Part2
+72,Bedrosians,Manhattan Gloss,Concrete_Part1,479_FLT.dng,231_TXT.dng,Manhattan GlossConcrete,Bedrosians_Manhattan Gloss_Concrete_Part1,Bedrosians_Manhattan GlossConcrete
+73,Bedrosians,Manhattan Gloss,Concrete_Part2,479_FLT.dng,225_TXT.dng,Manhattan GlossConcrete,Bedrosians_Manhattan Gloss_Concrete_Part2,Bedrosians_Manhattan GlossConcrete_Part2
+74,Bedrosians,Manhattan Gloss,Madison_Part1,476_FLT.dng,228_TXT.dng,Manhattan GlossMadison,Bedrosians_Manhattan Gloss_Madison_Part1,Bedrosians_Manhattan GlossMadison
+75,Bedrosians,Manhattan Gloss,Madison_Part2,476_FLT.dng,225_TXT.dng,Manhattan GlossMadison,Bedrosians_Manhattan Gloss_Madison_Part2,Bedrosians_Manhattan GlossMadison_Part2
+76,Bedrosians,Manhattan Gloss,Pearl_Part1,478_FLT.dng,230_TXT.dng,Manhattan GlossPearl,Bedrosians_Manhattan Gloss_Pearl_Part1,Bedrosians_Manhattan GlossPearl
+77,Bedrosians,Manhattan Gloss,Pearl_Part2,478_FLT.dng,225_TXT.dng,Manhattan GlossPearl,Bedrosians_Manhattan Gloss_Pearl_Part2,Bedrosians_Manhattan GlossPearl_Part2
+78,Bedrosians,Manhattan Gloss,Platinum_Part1,475_FLT.dng,227_TXT.dng,Manhattan GlossPlatinum,Bedrosians_Manhattan Gloss_Platinum_Part1,Bedrosians_Manhattan GlossPlatinum
+79,Bedrosians,Manhattan Gloss,Platinum_Part2,475_FLT.dng,225_TXT.dng,Manhattan GlossPlatinum,Bedrosians_Manhattan Gloss_Platinum_Part2,Bedrosians_Manhattan GlossPlatinum_Part2
+80,Bedrosians,Manhattan Gloss,Silk_Part1,477_FLT.dng,229_TXT.dng,Manhattan GlossSilk,Bedrosians_Manhattan Gloss_Silk_Part1,Bedrosians_Manhattan GlossSilk
+81,Bedrosians,Manhattan Gloss,Silk_Part2,477_FLT.dng,225_TXT.dng,Manhattan GlossSilk,Bedrosians_Manhattan Gloss_Silk_Part2,Bedrosians_Manhattan GlossSilk_Part2
+82,Bedrosians,Matrix,Azul_Part1,516_FLT.dng,252_TXT.dng,MatrixAzul,Bedrosians_Matrix,Bedrosians_MatrixAzul_Part1
+83,Bedrosians,Matrix,Azul_Part2,517_FLT.dng,252_TXT.dng,MatrixAzul,Bedrosians_Matrix,Bedrosians_MatrixAzul_Part2
+84,Bedrosians,Matrix,Classic Tan_Part1,559_FLT.dng,252_TXT.dng,MatrixClassic Tan,Bedrosians_Matrix,Bedrosians_MatrixClassic Tan_Part1
+85,Bedrosians,Matrix,Classic Tan_Part2,560_FLT.dng,252_TXT.dng,MatrixClassic Tan,Bedrosians_Matrix_Classic Tan_Part2,Bedrosians_MatrixClassic Tan_Part2
+86,Bedrosians,Metro Plus,Country Beige  ,586_FLT.dng,309_TXT.dng,Metro PlusCountry Beige,Bedrosians_Metro Plus_Country Beige,Bedrosians_Metro PlusCountry Beige
+87,Bedrosians,Metro Plus,Long Island Sky ,585_FLT.dng,308_TXT.dng,Metro PlusLong Island Sky,Bedrosians_Metro Plus_Long Island Sky,Bedrosians_Metro PlusLong Island Sky
+88,Bedrosians,Metro Plus,Manhatten Mist  ,584_FLT.dng,307_TXT.dng,Metro PlusManhatten Mist,Bedrosians_Metro Plus_Manhatten Mist,Bedrosians_Metro PlusManhatten Mist
+89,Bedrosians,Metro Plus,Stealth Jet  ,583_FLT.dng,306_TXT.dng,Metro PlusStealth Jet,Bedrosians_Metro Plus_Stealth Jet,Bedrosians_Metro PlusStealth Jet
+90,Bedrosians,Metro Plus Listello,Coco Rum-City Slicker_Part1,485_FLT.dng,235_TXT.dng,Metro Plus ListelloCoco Rum-City Slicker,Bedrosians_Metro Plus Listello,Bedrosians_Metro Plus ListelloCoco Rum-City Slicker_Part1
+91,Bedrosians,Metro Plus Listello,Coco Rum-City Slicker_Part2,486_FLT.dng,235_TXT.dng,Metro Plus ListelloCoco Rum-City Slicker,Bedrosians_Metro Plus Listello_Coco Rum-City Slicker_Part2,Bedrosians_Metro Plus ListelloCoco Rum-City Slicker_Part2
+92,Bedrosians,Metro Plus Listello,Stealth Jet-Manhattan Mist_Part1,481_FLT.dng,233_TXT.dng,Metro Plus ListelloStealth Jet-Manhattan Mist,Bedrosians_Metro Plus Listello,Bedrosians_Metro Plus ListelloStealth Jet-Manhattan Mist_Part1
+93,Bedrosians,Metro Plus Listello,Stealth Jet-Manhattan Mist_Part2,482_FLT.dng,233_TXT.dng,Metro Plus ListelloStealth Jet-Manhattan Mist,Bedrosians_Metro Plus Listello_Stealth Jet-Manhattan Mist_Part2,Bedrosians_Metro Plus ListelloStealth Jet-Manhattan Mist_Part2
+94,Bedrosians,Officine,Dark_Part1,487_FLT.dng,236_TXT.dng,OfficineDark,Bedrosians_Officine,Bedrosians_OfficineDark_Part1
+95,Bedrosians,Officine,Dark_Part2,488_FLT.dng,236_TXT.dng,OfficineDark,Bedrosians_Officine_Dark_Part2,Bedrosians_OfficineDark_Part2
+96,Bedrosians,Officine,Gothic_Part1,489_FLT.dng,237_TXT.dng,OfficineGothic,Bedrosians_Officine,Bedrosians_OfficineGothic_Part1
+97,Bedrosians,Officine,Gothic_Part2,490_FLT.dng,237_TXT.dng,OfficineGothic,Bedrosians_Officine_Gothic_Part2,Bedrosians_OfficineGothic_Part2
+98,Bedrosians,Officine,Romantic_Part1,483_FLT.dng,234_TXT.dng,OfficineRomantic,Bedrosians_Officine,Bedrosians_OfficineRomantic_Part1
+99,Bedrosians,Officine,Romantic_Part2,484_FLT.dng,234_TXT.dng,OfficineRomantic,Bedrosians_Officine_Romantic_Part2,Bedrosians_OfficineRomantic_Part2
+100,Bedrosians,Officine 2x2 Mosaic,Acid   ,-_FLT.dng,-_TXT.dng,Officine 2x2 MosaicAcid,Bedrosians_Officine 2x2 Mosaic_Acid,Bedrosians_Officine 2x2 MosaicAcid
+101,Bedrosians,Officine 2x2 Mosaic,Dark   ,438_FLT.dng,197_TXT.dng,Officine 2x2 MosaicDark,Bedrosians_Officine 2x2 Mosaic_Dark,Bedrosians_Officine 2x2 MosaicDark
+102,Bedrosians,Officine 2x2 Mosaic,Gothic   ,437_FLT.dng,196_TXT.dng,Officine 2x2 MosaicGothic,Bedrosians_Officine 2x2 Mosaic_Gothic,Bedrosians_Officine 2x2 MosaicGothic
+103,Bedrosians,Officine 2x2 Mosaic,Romantic   ,436_FLT.dng,195_TXT.dng,Officine 2x2 MosaicRomantic,Bedrosians_Officine 2x2 Mosaic_Romantic,Bedrosians_Officine 2x2 MosaicRomantic
+104,Bedrosians,Palazzo,Antique Cotto  ,-_FLT.dng,-_TXT.dng,PalazzoAntique Cotto,Bedrosians_Palazzo,Bedrosians_PalazzoAntique Cotto
+105,Bedrosians,Palazzo,Castle Graphite  ,-_FLT.dng,-_TXT.dng,PalazzoCastle Graphite,Bedrosians_Palazzo,Bedrosians_PalazzoCastle Graphite
+106,Bedrosians,Palazzo,Vitange Grey  ,-_FLT.dng,-_TXT.dng,PalazzoVitange Grey,Bedrosians_Palazzo_Vitange Grey,Bedrosians_PalazzoVitange Grey
+107,Bedrosians,Palazzo Bloom Deco,Antique Cotto  ,465_FLT.dng,217_TXT.dng,Palazzo Bloom DecoAntique Cotto,Bedrosians_Palazzo Bloom Deco,Bedrosians_Palazzo Bloom DecoAntique Cotto
+108,Bedrosians,Palazzo Bloom Deco,Castle Graphite  ,464_FLT.dng,217_TXT.dng,Palazzo Bloom DecoCastle Graphite,Bedrosians_Palazzo Bloom Deco,Bedrosians_Palazzo Bloom DecoCastle Graphite
+109,Bedrosians,Palazzo Bloom Deco,Vintage Grey  ,466_FLT.dng,217_TXT.dng,Palazzo Bloom DecoVintage Grey,Bedrosians_Palazzo Bloom Deco_Vintage Grey,Bedrosians_Palazzo Bloom DecoVintage Grey
+110,Bedrosians,Palazzo Dynasty Deco,Antique Cotto  ,463_FLT.dng,216_TXT.dng,Palazzo Dynasty DecoAntique Cotto,Bedrosians_Palazzo Dynasty Deco,Bedrosians_Palazzo Dynasty DecoAntique Cotto
+111,Bedrosians,Palazzo Dynasty Deco,Castle Graphite  ,462_FLT.dng,216_TXT.dng,Palazzo Dynasty DecoCastle Graphite,Bedrosians_Palazzo Dynasty Deco,Bedrosians_Palazzo Dynasty DecoCastle Graphite
+112,Bedrosians,Palazzo Dynasty Deco,Vintage Grey  ,461_FLT.dng,216_TXT.dng,Palazzo Dynasty DecoVintage Grey,Bedrosians_Palazzo Dynasty Deco_Vintage Grey,Bedrosians_Palazzo Dynasty DecoVintage Grey
+113,Bedrosians,Palazzo Florentina Deco,Antique Cotto  ,459_FLT.dng,215_TXT.dng,Palazzo Florentina DecoAntique Cotto,Bedrosians_Palazzo Florentina Deco,Bedrosians_Palazzo Florentina DecoAntique Cotto
+114,Bedrosians,Palazzo Florentina Deco,Castle Graphite  ,458_FLT.dng,215_TXT.dng,Palazzo Florentina DecoCastle Graphite,Bedrosians_Palazzo Florentina Deco,Bedrosians_Palazzo Florentina DecoCastle Graphite
+115,Bedrosians,Palazzo Florentina Deco,Vintage Grey  ,460_FLT.dng,215_TXT.dng,Palazzo Florentina DecoVintage Grey,Bedrosians_Palazzo Florentina Deco_Vintage Grey,Bedrosians_Palazzo Florentina DecoVintage Grey
+116,Bedrosians,Palazzo Villa Deco,Antique Cotto  ,455_FLT.dng,214_TXT.dng,Palazzo Villa DecoAntique Cotto,Bedrosians_Palazzo Villa Deco,Bedrosians_Palazzo Villa DecoAntique Cotto
+117,Bedrosians,Palazzo Villa Deco,Castle Graphite  ,456_FLT.dng,214_TXT.dng,Palazzo Villa DecoCastle Graphite,Bedrosians_Palazzo Villa Deco,Bedrosians_Palazzo Villa DecoCastle Graphite
+118,Bedrosians,Palazzo Villa Deco,Vintage Grey  ,457_FLT.dng,214_TXT.dng,Palazzo Villa DecoVintage Grey,Bedrosians_Palazzo Villa Deco_Vintage Grey,Bedrosians_Palazzo Villa DecoVintage Grey
+119,Bedrosians,Pulpis,Beige_Part1,505_FLT.dng,246_TXT.dng,PulpisBeige,Bedrosians_Pulpis,Bedrosians_PulpisBeige_Part1
+120,Bedrosians,Pulpis,Beige_Part2,506_FLT.dng,246_TXT.dng,PulpisBeige,Bedrosians_Pulpis_Beige_Part2,Bedrosians_PulpisBeige_Part2
+121,Bedrosians,Pulpis,Bianco_Part1,501_FLT.dng,244_TXT.dng,PulpisBianco,Bedrosians_Pulpis,Bedrosians_PulpisBianco_Part1
+122,Bedrosians,Pulpis,Bianco_Part2,502_FLT.dng,244_TXT.dng,PulpisBianco,Bedrosians_Pulpis_Bianco_Part2,Bedrosians_PulpisBianco_Part2
+123,Bedrosians,Pulpis,Grigio_Part1,503_FLT.dng,245_TXT.dng,PulpisGrigio,Bedrosians_Pulpis,Bedrosians_PulpisGrigio_Part1
+124,Bedrosians,Pulpis,Grigio_Part2,504_FLT.dng,245_TXT.dng,PulpisGrigio,Bedrosians_Pulpis_Grigio_Part2,Bedrosians_PulpisGrigio_Part2
+125,Bedrosians,Pulpis,Puro_Part1,507_FLT.dng,247_TXT.dng,PulpisPuro,Bedrosians_Pulpis,Bedrosians_PulpisPuro_Part1
+126,Bedrosians,Pulpis,Puro_Part2,508_FLT.dng,247_TXT.dng,PulpisPuro,Bedrosians_Pulpis_Puro_Part2,Bedrosians_PulpisPuro_Part2
+127,Bedrosians,Pulpis,Tortora_Part1,497_FLT.dng,242_TXT.dng,PulpisTortora,Bedrosians_Pulpis,Bedrosians_PulpisTortora_Part1
+128,Bedrosians,Pulpis,Tortora_Part2,498_FLT.dng,242_TXT.dng,PulpisTortora,Bedrosians_Pulpis_Tortora_Part2,Bedrosians_PulpisTortora_Part2
+129,Bedrosians,Pulpis 1x2 Mosiac,Beige   ,446_FLT.dng,205_TXT.dng,Pulpis 1x2 MosiacBeige,Bedrosians_Pulpis 1x2 Mosiac_Beige,Bedrosians_Pulpis 1x2 MosiacBeige
+130,Bedrosians,Pulpis 1x2 Mosiac,Bianco   ,444_FLT.dng,203_TXT.dng,Pulpis 1x2 MosiacBianco,Bedrosians_Pulpis 1x2 Mosiac_Bianco,Bedrosians_Pulpis 1x2 MosiacBianco
+131,Bedrosians,Pulpis 1x2 Mosiac,Grigio   ,445_FLT.dng,204_TXT.dng,Pulpis 1x2 MosiacGrigio,Bedrosians_Pulpis 1x2 Mosiac_Grigio,Bedrosians_Pulpis 1x2 MosiacGrigio
+132,Bedrosians,Pulpis 1x2 Mosiac,Puro   ,448_FLT.dng,207_TXT.dng,Pulpis 1x2 MosiacPuro,Bedrosians_Pulpis 1x2 Mosiac_Puro,Bedrosians_Pulpis 1x2 MosiacPuro
+133,Bedrosians,Pulpis 1x2 Mosiac,Tortora   ,447_FLT.dng,206_TXT.dng,Pulpis 1x2 MosiacTortora,Bedrosians_Pulpis 1x2 Mosiac_Tortora,Bedrosians_Pulpis 1x2 MosiacTortora
+134,Bedrosians,Roma,Almond   ,570_FLT.dng,288_TXT.dng,RomaAlmond,Bedrosians_Roma_Almond,Bedrosians_RomaAlmond
+135,Bedrosians,Roma,Beige   ,573_FLT.dng,291_TXT.dng,RomaBeige,Bedrosians_Roma_Beige,Bedrosians_RomaBeige
+136,Bedrosians,Roma,Noce   ,574_FLT.dng,292_TXT.dng,RomaNoce,Bedrosians_Roma_Noce,Bedrosians_RomaNoce
+137,Bedrosians,Serenity,Beige_Part1,529_FLT.dng,259_TXT.dng,SerenityBeige,Bedrosians_Serenity,Bedrosians_SerenityBeige_Part1
+138,Bedrosians,Serenity,Beige_Part2,530_FLT.dng,259_TXT.dng,SerenityBeige,Bedrosians_Serenity_Beige_Part2,Bedrosians_SerenityBeige_Part2
+139,Bedrosians,Serenity,Grey_Part1,531_FLT.dng,260_TXT.dng,SerenityGrey,Bedrosians_Serenity,Bedrosians_SerenityGrey_Part1
+140,Bedrosians,Serenity,Grey_Part2,532_FLT.dng,260_TXT.dng,SerenityGrey,Bedrosians_Serenity_Grey_Part2,Bedrosians_SerenityGrey_Part2
+141,Bedrosians,Serenity,White   ,569_FLT.dng,287_TXT.dng,SerenityWhite,Bedrosians_Serenity_White,Bedrosians_SerenityWhite
+142,Bedrosians,Simply Modern,CrÃ¨me_Part1,556_FLT.dng,277_TXT.dng,Simply ModernCrÃ¨me,Bedrosians_Simply Modern,Bedrosians_Simply ModernCrÃ¨me_Part1
+143,Bedrosians,Simply Modern,CrÃ¨me_Part2,557_FLT.dng,277_TXT.dng,Simply ModernCrÃ¨me,Bedrosians_Simply Modern_CrÃ¨me_Part2,Bedrosians_Simply ModernCrÃ¨me_Part2
+144,Bedrosians,Simply Modern,Gray_Part1,554_FLT.dng,276_TXT.dng,Simply ModernGray,Bedrosians_Simply Modern,Bedrosians_Simply ModernGray_Part1
+145,Bedrosians,Simply Modern,Gray_Part2,555_FLT.dng,276_TXT.dng,Simply ModernGray,Bedrosians_Simply Modern_Gray_Part2,Bedrosians_Simply ModernGray_Part2
+146,Bedrosians,Simply Modern 2x2 Mosaic,Black   ,-_FLT.dng,-_TXT.dng,Simply Modern 2x2 MosaicBlack,Bedrosians_Simply Modern 2x2 Mosaic,Bedrosians_Simply Modern 2x2 MosaicBlack
+147,Bedrosians,Simply Modern 2x2 Mosaic,CrÃ¨me   ,-_FLT.dng,-_TXT.dng,Simply Modern 2x2 MosaicCrÃ¨me,Bedrosians_Simply Modern 2x2 Mosaic,Bedrosians_Simply Modern 2x2 MosaicCrÃ¨me
+148,Bedrosians,Simply Modern 2x2 Mosaic,Grey   ,-_FLT.dng,-_TXT.dng,Simply Modern 2x2 MosaicGrey,Bedrosians_Simply Modern 2x2 Mosaic_Grey,Bedrosians_Simply Modern 2x2 MosaicGrey
+149,Bedrosians,Stonefire,Beige   ,568_FLT.dng,286_TXT.dng,StonefireBeige,Bedrosians_Stonefire_Beige,Bedrosians_StonefireBeige
+150,Bedrosians,Stonefire,Noce   ,567_FLT.dng,285_TXT.dng,StonefireNoce,Bedrosians_Stonefire_Noce,Bedrosians_StonefireNoce
+151,Bedrosians,Stonefire 2X2 Mosaic,Beige   ,581_FLT.dng,304_TXT.dng,Stonefire 2X2 MosaicBeige,Bedrosians_Stonefire 2X2 Mosaic_Beige,Bedrosians_Stonefire 2X2 MosaicBeige
+152,Bedrosians,Stonefire 2X2 Mosaic,Grey   ,580_FLT.dng,303_TXT.dng,Stonefire 2X2 MosaicGrey,Bedrosians_Stonefire 2X2 Mosaic_Grey,Bedrosians_Stonefire 2X2 MosaicGrey
+153,Bedrosians,Stonefire 2X2 Mosaic,Noce   ,582_FLT.dng,305_TXT.dng,Stonefire 2X2 MosaicNoce,Bedrosians_Stonefire 2X2 Mosaic_Noce,Bedrosians_Stonefire 2X2 MosaicNoce
+154,Bedrosians,Tahoe,Barrel_Part1,542_FLT.dng,267_TXT.dng,TahoeBarrel,Bedrosians_Tahoe,Bedrosians_TahoeBarrel_Part1
+155,Bedrosians,Tahoe,Barrel_Part2,543_FLT.dng,267_TXT.dng,TahoeBarrel,Bedrosians_Tahoe_Barrel_Part2,Bedrosians_TahoeBarrel_Part2
+156,Bedrosians,Tahoe,Glacier_Part1,538_FLT.dng,265_TXT.dng,TahoeGlacier,Bedrosians_Tahoe,Bedrosians_TahoeGlacier_Part1
+157,Bedrosians,Tahoe,Glacier_Part2,539_FLT.dng,265_TXT.dng,TahoeGlacier,Bedrosians_Tahoe_Glacier_Part2,Bedrosians_TahoeGlacier_Part2
+158,Bedrosians,Tahoe,Lodge_Part1,540_FLT.dng,266_TXT.dng,TahoeLodge,Bedrosians_Tahoe,Bedrosians_TahoeLodge_Part1
+159,Bedrosians,Tahoe,Lodge_Part2,541_FLT.dng,266_TXT.dng,TahoeLodge,Bedrosians_Tahoe_Lodge_Part2,Bedrosians_TahoeLodge_Part2
+160,Bedrosians,Tahoe,Summit_Part1,544_FLT.dng,268_TXT.dng,TahoeSummit,Bedrosians_Tahoe,Bedrosians_TahoeSummit_Part1
+161,Bedrosians,Tahoe,Summit_Part2,545_FLT.dng,268_TXT.dng,TahoeSummit,Bedrosians_Tahoe_Summit_Part2,Bedrosians_TahoeSummit_Part2
+162,Bedrosians,Traditions,Ice White   ,558_FLT.dng,278_TXT.dng,TraditionsIce White,Bedrosians_Traditions_Ice White,Bedrosians_TraditionsIce White
+163,Bedrosians,Winter 8x24 Honed,Blanco_Part1,597_FLT.dng,320_TXT.dng,Winter 8x24 HonedBlanco,Bedrosians_Winter 8x24 Honed,Bedrosians_Winter 8x24 HonedBlanco_Part1
+164,Bedrosians,Winter 8x24 Honed,Blanco_Part2,598_FLT.dng,320_TXT.dng,Winter 8x24 HonedBlanco,Bedrosians_Winter 8x24 Honed_Blanco_Part2,Bedrosians_Winter 8x24 HonedBlanco_Part2
+165,Bedrosians,Winter 8x24 Honed,Gris_Part1,536_FLT.dng,264_TXT.dng,Winter 8x24 HonedGris,Bedrosians_Winter 8x24 Honed,Bedrosians_Winter 8x24 HonedGris_Part1
+166,Bedrosians,Winter 8x24 Honed,Gris_Part2,537_FLT.dng,264_TXT.dng,Winter 8x24 HonedGris,Bedrosians_Winter 8x24 Honed_Gris_Part2,Bedrosians_Winter 8x24 HonedGris_Part2
+167,Bedrosians,Zebrino,Calacatta Polished  ,-_FLT.dng,-_TXT.dng,ZebrinoCalacatta Polished,Bedrosians_Zebrino_Calacatta Polished,Bedrosians_ZebrinoCalacatta Polished
+168,Bedrosians,Zebrino 2X2 Mosaic,Bluette   ,440_FLT.dng,199_TXT.dng,Zebrino 2X2 MosaicBluette,Bedrosians_Zebrino 2X2 Mosaic_Bluette,Bedrosians_Zebrino 2X2 MosaicBluette
+169,Bedrosians,Zebrino 2X2 Mosaic,Calacatta   ,441_FLT.dng,200_TXT.dng,Zebrino 2X2 MosaicCalacatta,Bedrosians_Zebrino 2X2 Mosaic_Calacatta,Bedrosians_Zebrino 2X2 MosaicCalacatta
+170,Bedrosians,Zebrino 2X2 Mosaic,Michelangelo   ,439_FLT.dng,198_TXT.dng,Zebrino 2X2 MosaicMichelangelo,Bedrosians_Zebrino 2X2 Mosaic_Michelangelo,Bedrosians_Zebrino 2X2 MosaicMichelangelo
+171,Bedrosians,Zebrino Chelsea Honed Mosaic,Bluette   ,563_FLT.dng,281_TXT.dng,Zebrino Chelsea Honed MosaicBluette,Bedrosians_Zebrino Chelsea Honed Mosaic_Bluette,Bedrosians_Zebrino Chelsea Honed MosaicBluette
+172,Bedrosians,Zebrino Chelsea Honed Mosaic,Calacatta   ,562_FLT.dng,280_TXT.dng,Zebrino Chelsea Honed MosaicCalacatta,Bedrosians_Zebrino Chelsea Honed Mosaic_Calacatta,Bedrosians_Zebrino Chelsea Honed MosaicCalacatta
+173,Bedrosians,Zebrino Chelsea Honed Mosaic,Michelangelo   ,561_FLT.dng,279_TXT.dng,Zebrino Chelsea Honed MosaicMichelangelo,Bedrosians_Zebrino Chelsea Honed Mosaic_Michelangelo,Bedrosians_Zebrino Chelsea Honed MosaicMichelangelo
+174,Bedrosians,Zenith Gloss,Tide   ,549_FLT.dng,271_TXT.dng,Zenith GlossTide,Bedrosians_Zenith Gloss_Tide,Bedrosians_Zenith GlossTide
+175,Bedrosians,Zenith Matte,Moon   ,548_FLT.dng,270_TXT.dng,Zenith MatteMoon,Bedrosians_Zenith Matte_Moon,Bedrosians_Zenith MatteMoon
+176,Bedrosians,Zenith Matte,Orion   ,552_FLT.dng,274_TXT.dng,Zenith MatteOrion,Bedrosians_Zenith Matte_Orion,Bedrosians_Zenith MatteOrion
+177,Bedrosians,Zenith Matte,Solar   ,550_FLT.dng,272_TXT.dng,Zenith MatteSolar,Bedrosians_Zenith Matte_Solar,Bedrosians_Zenith MatteSolar
+178,Bedrosians,Zenith Matte,Umbra   ,551_FLT.dng,273_TXT.dng,Zenith MatteUmbra,Bedrosians_Zenith Matte,Bedrosians_Zenith MatteUmbra
