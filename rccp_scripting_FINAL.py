@@ -135,7 +135,7 @@ for i in range(number_of_cell - 1):
 
 # this line simply exports the new dataframe to a csv file
 # I used this in order to inspect my data when given confusing or blank errors
-merge_df.to_csv(input('What would you like to name your data file? '))
+# merge_df.to_csv(input('What would you like to name your data file? '))
 
 # This block imports the desired image folder/directory, and prints the folders contents to the terminal
 # Additionally, the last line creates a range of the number of files in the directory that I will use to iterate
@@ -147,7 +147,7 @@ for file in filelist[:]: # filelist[:] makes a copy of filelist
 number_of_files = len(filelist)
 
 # Here the code will prompt the operator to enter a path for a desired source files folder, and will create that folder in the
-# local directory - this is where the original images will be copied too so that operators have a fall back just in case the renaming
+# local directory - this is where the original images will be copied to so that operators have a fall back just in case the renaming
 # script does not function properly and you do not lose a whole day of photoshoots.
 
 copiedDir = input("Please enter a directory path to store your source images: ")
@@ -158,14 +158,14 @@ os.mkdir(copiedDir)
 #
 # Essentially, it does the following:
 #
-# Looks two ranges - the number of values in the color column (I did this is all columns will have the same number of rows - it didn't really matter that I chose color)
+# Looks two ranges - the number of values in the color column (I did this is as all columns will have the same number of rows - it didn't really matter that I chose color)
 # and the number of files in the file directory that was referenced.
 #
 # Next, I generate the new file names for both the flat and the texture images - I use the root folder (mydir) plus a series of dataframe values to rename the image
-# These values are the Manufacturer name, series, and color - with the added _FLAT or _TEXTURE suffix depending upon the use, and the .dng to maintain the file
+# These values are the Flat_Name and Text_Name series - with the added _FLAT or _TEXTURE suffix depending upon the use, and the .dng to maintain the file
 # format
 #
-# Now I loop through the code - I do a check to see if the name of a given file - matches either the Flat RCCP or Texture RCCP value in the dataframe
+# Now I loop through the code - I do a check to see if the name of a given file matches either the Flat RCCP or Texture RCCP value in the dataframe
 # if they match, then I use the shutil.copy function to copy the original file to the source file folder that was created in line 153, and
 # the os.rename function to rename the old file to the new file names I generated above
 # if they don't, I have it print out a statement saying that no match was found
@@ -180,11 +180,11 @@ for i in range(number_of_cell):
                     os.rename(mydir + filelist[n], new_flat_file)
                     print(f"flat image {new_flat_file} processed") 
                 except:
-                    print('Flat Image Id NOT FOUND - or - Option has TWO pieces')
+                    print('Flat Image Id NOT FOUND')
             elif  filelist[n] == merge_df['Texture RCCP'][i]:
                 try:
                     shutil.copy(mydir + filelist[n], copiedDir)
                     os.rename(mydir + filelist[n], new_text_file)
                     print(f"texture image {new_text_file} processed")
                 except:
-                    print('Texture Image Id NOT FOUND - or - Option has TWO pieces')
+                    print('Texture Image Id NOT FOUND')
